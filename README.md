@@ -1,2 +1,2 @@
 # wordpress
-All About the WordPress plugin that i will going to create
+All About the WordPress plugin that I will go to create..
